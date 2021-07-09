@@ -51,7 +51,7 @@ namespace task1
         }
         static void Main(string[] args)
         {
-            int[] array = new int[] { 15, 1727, 22, 66, 11, 6, 363, 23, 83, 21, 47, 511 };
+            int[] array = new int[] { 15, 1727, 22, 66, 11, 6, 363, 23, 83, 212, 47, 511 };
 
             Console.WriteLine("Bucket Sort");
 
